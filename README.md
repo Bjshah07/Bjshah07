@@ -24,9 +24,9 @@
 </p>
 
 <p>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=300" alt="bjshah07" align="left" />
+   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=200" alt="bjshah07" align="left" />
  <a href="https://github.com/Bjshah07/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=300" align="right"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=200" align="right"/>
     </a>
 </p>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
