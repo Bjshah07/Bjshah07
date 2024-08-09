@@ -39,3 +39,8 @@
 <a href="https://instagram.com/bj_shah_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bj_shah_07" height="30" width="40" /></a>
 <a href="https://github.com/bjshah07/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="bj_shah_07" height="30" width="40" /></a>
 </p>
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
