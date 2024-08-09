@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Bijay Kumar Shah</h1>
 
 <p  align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Innovating+Web+Solutions+with+a+Blend+of+Creativity+and+Logic.;Frontend+Developer+with+a+Passion+for+C%2B%2B+Logic.;Turning+Designs+into+Functional+Masterpieces.&width=750" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Innovating+Web+Solutions+with+a+Blend+of+Creativity+and+Logic.;Frontend+Developer+with+a+Passion+for+C%2B%2B+Logic.;Turning+Designs+into+Functional+Masterpieces.&center=true&size=11" alt="Typing SVG" /></a>
 </p>
 <p  align="center">
    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="300">
@@ -24,9 +24,9 @@
 </p>
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=200" alt="bjshah07" align="left" height="192px" width="38.5%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=200" alt="bjshah07" align="left" height="192px" width="43.5%"/>
  <a href="https://github.com/Bjshah07/github-readme-streak-stats">
-      <img alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=200" align="right" height="192px" width="38.5%"/>
+      <img alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=200" align="right" height="192px" width="43.5%"/>
     </a>
 </p>
 
