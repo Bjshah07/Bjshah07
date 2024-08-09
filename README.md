@@ -23,15 +23,14 @@
   </a>
 </p>
 
-<p>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=200" alt="bjshah07" align="left" />
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=200" alt="bjshah07" align="left" height="192px" width="38.5%"/>
  <a href="https://github.com/Bjshah07/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=200" align="right"/>
+      <img alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=200" align="right" height="192px" width="38.5%"/>
     </a>
 </p>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 
- <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07&theme=gotham&hide_border=true" /></a></p>
+ <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07&theme=gotham" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
