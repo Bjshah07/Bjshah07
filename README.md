@@ -19,20 +19,17 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bjshah07&show_icons=true&locale=en&layout=compact&theme=gotham" alt="bjshah07" /></p> <h3 align="left">📈 My github stats</h3>
 <p align="center">
   <a href="https://github.com/Bjshah07">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bjshah07&theme=gotham" alt="Bjshah's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bjshah07&theme=gotham&" alt="Bjshah's GitHub Contribution"/>
   </a>
 </p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham" alt="bjshah07" align="left" />
- <a href="https://github.com/Bjshah07/github-readme-streak-stats" align="right">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&hide_border=true"/>
-    </a>
-</p>
 
- <p align="right">
-   
+<p>&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api?username=bjshah07&show_icons=true&locale=en&theme=gotham&width=300" alt="bjshah07" align="left" />
+ <a href="https://github.com/Bjshah07/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bjshah07's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Bjshah07&theme=gotham&width=300" align="right"/>
+    </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
- </p>
+</p>
 
  <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07&theme=gotham&hide_border=true" /></a></p>
 
