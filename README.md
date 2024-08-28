@@ -19,7 +19,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bjshah07&show_icons=true&locale=en&layout=compact&theme=gotham" alt="bjshah07" /></p> <h3 align="left">📈 My github stats</h3>
 <p align="center">
   <a href="https://github.com/Bjshah07">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bjshah07&theme=gotham&" alt="Bjshah's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bjshah07&theme=gotham" alt="Bjshah's GitHub Contribution"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
     </a>
 </p>
 
- <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07" /></a></p>
+ <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07&theme=gotham" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
