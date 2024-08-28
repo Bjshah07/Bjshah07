@@ -30,7 +30,7 @@
     </a>
 </p>
 
- <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07&theme=gotham" /></a></p>
+ <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bjshah07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Bjshah07" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
